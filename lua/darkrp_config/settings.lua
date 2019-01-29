@@ -416,7 +416,7 @@ GM.Config.DefaultLaws = {
 }
 
 GM.Config.PocketBlacklist = {
-    ["fadmin_jail"] = true,
+    ["fadmin_jail"] = false,
     ["meteor"] = true,
     ["door"] = true,
     ["func_"] = true,
@@ -426,7 +426,7 @@ GM.Config.PocketBlacklist = {
     ["env_"] = true,
     ["path_"] = true,
     ["prop_physics"] = true,
-    ["money_printer"] = true,
+    ["money_printer"] = false,
     ["gunlab"] = true,
     ["prop_dynamic"] = true,
     ["prop_vehicle_prisoner_pod"] = true,
